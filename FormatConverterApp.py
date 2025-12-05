@@ -7,7 +7,6 @@ Toutes les fonctionnalités de conversion avec interface moderne
 
 import customtkinter as ctk
 from tkinter import filedialog, messagebox, Menu
-from tkinterdnd2 import DND_FILES, TkinterDnD
 import subprocess
 import os
 import sys
